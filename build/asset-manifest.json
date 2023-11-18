@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b49cd314.css",
+    "main.js": "/static/js/main.f511208b.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/back-1.jpg": "/static/media/back-1.e034dd88739924d9d0ef.jpg",
+    "static/media/call-to-action-bg.jpg": "/static/media/call-to-action-bg.363ec4ac9951d7a17397.jpg",
+    "static/media/about-img.jpg": "/static/media/about-img.4dafd5a8f0c428e20978.jpg",
+    "static/media/team-7.jpg": "/static/media/team-7.ed5fcbb068d5284eeded.jpg",
+    "static/media/team-5.jpg": "/static/media/team-5.1207251c534f45855bcb.jpg",
+    "static/media/team-1.jpg": "/static/media/team-1.8003ac6951c959917753.jpg",
+    "static/media/team-8.jpg": "/static/media/team-8.8b18bfc2e09267da3fee.jpg",
+    "static/media/hero-bg.jpg": "/static/media/hero-bg.3e230301f3c46d5661d1.jpg",
+    "static/media/team-6.jpg": "/static/media/team-6.1d8436cf838c8222a96e.jpg",
+    "static/media/team-2.jpg": "/static/media/team-2.ca3e9f866f9f1130419f.jpg",
+    "static/media/team-4.jpg": "/static/media/team-4.95690e07c1c8d04a85b5.jpg",
+    "static/media/team-3.jpg": "/static/media/team-3.0faf7b7fc188451aa9ce.jpg",
+    "static/media/logo.png": "/static/media/logo.f3bed7df5c14bd6a3d2d.png",
+    "static/media/booknow.png": "/static/media/booknow.1df5fdb55f81fd780b1a.png",
+    "index.html": "/index.html",
+    "main.b49cd314.css.map": "/static/css/main.b49cd314.css.map",
+    "main.f511208b.js.map": "/static/js/main.f511208b.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b49cd314.css",
+    "static/js/main.f511208b.js"
+  ]
+}

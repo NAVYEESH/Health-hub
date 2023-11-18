@@ -1,0 +1,24 @@
+{
+  "name": "HealthHub",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js",
+    "dev": "concurrently \"npm start\"\"npm run client\""
+  },
+  "author": "Navyeesh",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "concurrently": "^8.2.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "js": "^0.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "moment": "^2.29.3",
+    "mongoose": "^7.6.3",
+    "nodemon": "^3.0.1"
+  }
+}
